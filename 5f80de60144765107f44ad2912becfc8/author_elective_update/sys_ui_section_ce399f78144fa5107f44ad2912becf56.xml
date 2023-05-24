@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="JUSTIFICATION" section_id="ce399f78144fa5107f44ad2912becf56" sys_domain="global" table="x_cdltd_bridge_the_skillbridge_application_tracker" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-24 14:58:15</sys_created_on>
+            <sys_id>9e399f78144fa5107f44ad2912becfb6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="JUSTIFICATION" display_value="JUSTIFICATION" name="x_cdltd_bridge_the_skillbridge_application_tracker" sys_domain="global" view="Default view">ce399f78144fa5107f44ad2912becf56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-24 14:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-24 14:58:15</sys_created_on>
+            <sys_id>92399f78144fa5107f44ad2912becfb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="JUSTIFICATION" display_value="JUSTIFICATION" name="x_cdltd_bridge_the_skillbridge_application_tracker" sys_domain="global" view="Default view">ce399f78144fa5107f44ad2912becf56</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-24 14:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>JUSTIFICATION</caption>
+            <header>false</header>
+            <name>x_cdltd_bridge_the_skillbridge_application_tracker</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-24 14:58:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce399f78144fa5107f44ad2912becf56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_bridge_the_skillbridge_application_tracker</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
+            <sys_update_name>sys_ui_section_ce399f78144fa5107f44ad2912becf56</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-24 14:58:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</application>
+        <file_path/>
+        <instance_id>08a28e578776a5d037e243b4dabb359f</instance_id>
+        <instance_name>adf-may21-583-dev-012</instance_name>
+        <name>sys_ui_section_ce399f78144fa5107f44ad2912becf56</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="JUSTIFICATION" section_id="ce399f78144fa5107f44ad2912becf56" sys_domain="global" table="x_cdltd_bridge_the_skillbridge_application_tracker" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-24 14:58:15</sys_created_on><sys_id>9e399f78144fa5107f44ad2912becfb6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="JUSTIFICATION" display_value="JUSTIFICATION" name="x_cdltd_bridge_the_skillbridge_application_tracker" sys_domain="global" view="Default view">ce399f78144fa5107f44ad2912becf56</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-24 14:58:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-24 14:58:15</sys_created_on><sys_id>92399f78144fa5107f44ad2912becfb7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="JUSTIFICATION" display_value="JUSTIFICATION" name="x_cdltd_bridge_the_skillbridge_application_tracker" sys_domain="global" view="Default view">ce399f78144fa5107f44ad2912becf56</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-24 14:58:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>JUSTIFICATION</caption><header>false</header><name>x_cdltd_bridge_the_skillbridge_application_tracker</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-24 14:58:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ce399f78144fa5107f44ad2912becf56</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_bridge_the_skillbridge_application_tracker</sys_name><sys_overrides/><sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package><sys_policy/><sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope><sys_update_name>sys_ui_section_ce399f78144fa5107f44ad2912becf56</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-24 14:58:14</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>723787097</payload_hash>
+        <record_name>SKILLBRIDGE APPLICATION TRACKER</record_name>
+        <reverted_from/>
+        <source>4ecf4fb8140fa5107f44ad2912becf7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-24 14:58:15</sys_created_on>
+        <sys_id>52399f78144fa5107f44ad2912becfb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1884e448c9c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-24 14:58:15</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d6399f78764fa510e31f602455e140b8</update_guid>
+        <update_guid_history>d6399f78764fa510e31f602455e140b8:723787097</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-24 14:59:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7fd32062ae5e4d60b456e13c8e4a0c40</sys_id>
+        <sys_metadata>ce399f78144fa5107f44ad2912becf56</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JUSTIFICATION</sys_name>
+        <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
+        <sys_parent display_value="SKILLBRIDGE APPLICATION TRACKER">4c676f6c14cb65107f44ad2912becfd1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
+        <sys_scope_delete display_value="">0062f85ee85540aa8073e2e5d2ffef41</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ce399f78144fa5107f44ad2912becf56</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ce399f78144fa5107f44ad2912becf56">52399f78144fa5107f44ad2912becfb9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-24 14:59:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
