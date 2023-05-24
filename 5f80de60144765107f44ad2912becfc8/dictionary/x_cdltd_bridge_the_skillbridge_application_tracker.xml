@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c676f6c14cb65107f44ad2912becfd1" extends="task" label="SKILLBRIDGE APPLICATION TRACKER" max_length="40" name="x_cdltd_bridge_the_skillbridge_application_tracker" type="collection">
+        <element display="true" label="Request" max_length="40" name="request" reference="sc_request" type="string"/>
+        <element label="User" max_length="40" name="user" reference="sys_user" type="string"/>
+    </element>
+</database>

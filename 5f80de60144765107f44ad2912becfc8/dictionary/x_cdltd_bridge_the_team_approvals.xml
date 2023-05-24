@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="84b312e4144765107f44ad2912becfd8" label="Team Approvals" max_length="40" name="x_cdltd_bridge_the_team_approvals" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Commanders approval" max_length="40" name="commanders_approval" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Company approval" max_length="40" name="company_approval" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Education Center approval" max_length="40" name="education_center_approval" type="choice">
+            <choice/>
+        </element>
+        <element label="Service Member choose SKB " max_length="40" name="service_member_choose_skb" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Supervisor approval" max_length="40" name="supervisor_approval" type="choice">
+            <choice/>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

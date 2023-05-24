@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b7938fec140b65107f44ad2912becf7b" sys_domain="global" table="x_cdltd_bridge_t_1_application_approval_start" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-23 18:45:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb938fec140b65107f44ad2912becfd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_bridge_t_1_application_approval_start" name="x_cdltd_bridge_t_1_application_approval_start" sys_domain="global" view="eb938fec140b65107f44ad2912becf73">b7938fec140b65107f44ad2912becf7b</sys_ui_form>
+            <sys_ui_section caption="Information" display_value="Information" name="x_cdltd_bridge_t_1_application_approval_start" sys_domain="global" view="eb938fec140b65107f44ad2912becf73">33938fec140b65107f44ad2912becf79</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-23 18:45:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-23 18:45:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b938fec140b65107f44ad2912becfd6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_bridge_t_1_application_approval_start" name="x_cdltd_bridge_t_1_application_approval_start" sys_domain="global" view="eb938fec140b65107f44ad2912becf73">b7938fec140b65107f44ad2912becf7b</sys_ui_form>
+            <sys_ui_section caption="Decision" display_value="Decision" name="x_cdltd_bridge_t_1_application_approval_start" sys_domain="global" view="eb938fec140b65107f44ad2912becf73">f7938fec140b65107f44ad2912becf7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-23 18:45:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-23 20:30:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8babdbac148b65107f44ad2912becf58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_bridge_t_1_application_approval_start" name="x_cdltd_bridge_t_1_application_approval_start" sys_domain="global" view="eb938fec140b65107f44ad2912becf73">b7938fec140b65107f44ad2912becf7b</sys_ui_form>
+            <sys_ui_section caption="All Final Approvings" display_value="All Final Approvings" name="x_cdltd_bridge_t_1_application_approval_start" sys_domain="global" view="eb938fec140b65107f44ad2912becf73">b6abdbac148b65107f44ad2912becf53</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-23 20:30:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-23 20:30:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07abdbac148b65107f44ad2912becf5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_bridge_t_1_application_approval_start" name="x_cdltd_bridge_t_1_application_approval_start" sys_domain="global" view="eb938fec140b65107f44ad2912becf73">b7938fec140b65107f44ad2912becf7b</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_cdltd_bridge_t_1_application_approval_start" sys_domain="global" view="eb938fec140b65107f44ad2912becf73">feabdbac148b65107f44ad2912becf54</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-23 20:30:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_cdltd_bridge_t_1_application_approval_start</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-23 18:45:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7938fec140b65107f44ad2912becf7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_bridge_t_1_application_approval_start</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b7938fec140b65107f44ad2912becf7b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-23 18:45:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="New View" name="New_View">eb938fec140b65107f44ad2912becf73</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

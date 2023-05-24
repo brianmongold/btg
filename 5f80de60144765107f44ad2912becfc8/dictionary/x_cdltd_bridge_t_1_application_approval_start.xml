@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="44cf351c144325107f44ad2912becfe1" label="Application Approval (START)" max_length="40" name="x_cdltd_bridge_t_1_application_approval_start" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" mandatory="true" max_length="40" name="x_cdltd_bridge_the_u_calendar_date_time_2" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="approve" label="Supervisor Choice" max_length="40" name="x_cdltd_bridge_the_u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approve" sequence="0" value="approve"/>
+                <element inactive_on_update="false" label="Disapprove" sequence="1" value="disapprove"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="approve" label="Education Center Choice" max_length="40" name="x_cdltd_bridge_the_u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approve" sequence="0" value="approve"/>
+                <element inactive_on_update="false" label="Dissapprove" sequence="1" value="dissapprove"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="approve" label="Leadership Choice" max_length="40" name="x_cdltd_bridge_the_u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approve" sequence="0" value="approve"/>
+                <element inactive_on_update="false" label="Disapprove" sequence="1" value="disapprove"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="approve" label="Commanders Choice" max_length="40" name="x_cdltd_bridge_the_u_choice_4" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approve" sequence="0" value="approve"/>
+                <element inactive="true" inactive_on_update="true" label="USAF" sequence="0" value="usaf"/>
+                <element inactive="true" inactive_on_update="true" label="ARMY" sequence="1" value="army"/>
+                <element inactive_on_update="false" label="Disapprove" sequence="1" value="disapprove"/>
+                <element inactive="true" inactive_on_update="true" label="NAVY" sequence="2" value="navy"/>
+                <element inactive="true" inactive_on_update="true" label="GUARD/RESERVIST" sequence="3" value="guard/reservist"/>
+                <element inactive="true" inactive_on_update="true" label="MARINE" sequence="4" value="marine"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Approval Choice" mandatory="true" max_length="40" name="x_cdltd_bridge_the_u_choice_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Supervisor" sequence="0" value="supervisor"/>
+                <element inactive_on_update="false" label="Education Center" sequence="1" value="education center"/>
+                <element inactive_on_update="false" label="Leadership" sequence="2" value="leadership"/>
+                <element inactive_on_update="false" label="Commander" sequence="3" value="commander"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Career Choice" mandatory="true" max_length="40" name="x_cdltd_bridge_the_u_choice_7" type="string">
+            <choice>
+                <element inactive_on_update="false" label="IT" sequence="0" value="it"/>
+                <element inactive_on_update="false" label="EDUCATION" sequence="1" value="education"/>
+                <element inactive_on_update="false" label="LOGISTICS" sequence="2" value="logistics"/>
+                <element inactive_on_update="false" label="ADMIN" sequence="3" value="admin"/>
+                <element inactive_on_update="false" label="TECHNICAL" sequence="4" value="technical"/>
+            </choice>
+        </element>
+        <element label="New Due Date" mandatory="true" max_length="40" name="x_cdltd_bridge_the_u_due_date_5" type="due_date"/>
+        <element label="Service Member Name" mandatory="true" max_length="80" name="x_cdltd_bridge_the_u_field_name_1" type="field_name"/>
+        <element dependent="u_field_name_15" dependent_on_field="u_field_name_15" label="Signature" max_length="80" name="x_cdltd_bridge_the_u_field_name_15" type="field_name" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="x_cdltd_bridge_the_u_glide_date_time_16" type="glide_date_time"/>
+        <element label="New Insert Timestamp" max_length="40" name="x_cdltd_bridge_the_u_insert_timestamp_10" type="insert_timestamp"/>
+        <element label="New Insert Timestamp" max_length="40" name="x_cdltd_bridge_the_u_insert_timestamp_11" type="insert_timestamp"/>
+        <element label="New Insert Timestamp" max_length="40" name="x_cdltd_bridge_the_u_insert_timestamp_12" type="insert_timestamp"/>
+        <element label="New Insert Timestamp" max_length="40" name="x_cdltd_bridge_the_u_insert_timestamp_13" type="insert_timestamp"/>
+    </element>
+</database>
