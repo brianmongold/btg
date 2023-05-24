@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-23 21:34:10</sys_created_on>
+        <sys_id>0c4aa760140f65107f44ad2912becfc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_bridge_the_skillbridge_application_tracker.x_cdltd_bridge_the.skillbridge_application_tracker_user</sys_name>
+        <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
+        <sys_security_acl display_value="x_cdltd_bridge_the_skillbridge_application_tracker">004aa760140f65107f44ad2912becfc5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0c4aa760140f65107f44ad2912becfc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-23 21:34:10</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_bridge_the.skillbridge_application_tracker_user" name="x_cdltd_bridge_the.skillbridge_application_tracker_user">3b3a6360140f65107f44ad2912becfe1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</application>
+        <file_path/>
+        <instance_id>08a28e578776a5d037e243b4dabb359f</instance_id>
+        <instance_name>adf-may21-583-dev-012</instance_name>
+        <name>sys_security_acl_role_0c4aa760140f65107f44ad2912becfc7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-23 21:34:10</sys_created_on><sys_id>0c4aa760140f65107f44ad2912becfc7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_bridge_the_skillbridge_application_tracker.x_cdltd_bridge_the.skillbridge_application_tracker_user</sys_name><sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package><sys_policy/><sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope><sys_security_acl display_value="x_cdltd_bridge_the_skillbridge_application_tracker">004aa760140f65107f44ad2912becfc5</sys_security_acl><sys_update_name>sys_security_acl_role_0c4aa760140f65107f44ad2912becfc7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-23 21:34:10</sys_updated_on><sys_user_role display_value="x_cdltd_bridge_the.skillbridge_application_tracker_user" name="x_cdltd_bridge_the.skillbridge_application_tracker_user">3b3a6360140f65107f44ad2912becfe1</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-897176504</payload_hash>
+        <record_name>x_cdltd_bridge_the_skillbridge_application_tracker.x_cdltd_bridge_the.skillbridge_application_tracke</record_name>
+        <reverted_from/>
+        <source>9780de60144765107f44ad2912becfcb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-23 21:34:10</sys_created_on>
+        <sys_id>804aa760140f65107f44ad2912becfca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1884a88a9560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-23 21:34:10</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c44aa7609f0f6510a4a70ac014e480c9</update_guid>
+        <update_guid_history>c44aa7609f0f6510a4a70ac014e480c9:-897176504</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_bridge_the_skillbridge_application_tracker.x_cdltd_bridge_the.skillbridg">6211c8891443e5107f44ad2912becf3c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-24 17:52:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0792a210da40406087407d6955928400</sys_id>
+        <sys_metadata>0c4aa760140f65107f44ad2912becfc7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_bridge_the_skillbridge_application_tracker.x_cdltd_bridge_the.skillbridge_application_tracker_user</sys_name>
+        <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
+        <sys_parent display_value="x_cdltd_bridge_the_skillbridge_application_tracker">004aa760140f65107f44ad2912becfc5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
+        <sys_scope_delete display_value="">0062f85ee85540aa8073e2e5d2ffef41</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_0c4aa760140f65107f44ad2912becfc7</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_0c4aa760140f65107f44ad2912becfc7">804aa760140f65107f44ad2912becfca</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-24 17:52:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

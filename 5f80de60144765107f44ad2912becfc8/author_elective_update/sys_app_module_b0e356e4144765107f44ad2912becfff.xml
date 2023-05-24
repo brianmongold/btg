@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Bridge the GAP">f4e356e4144765107f44ad2912becff4</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_bridge_the_team_approvals</name>
+        <order>600</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-23 15:16:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0e356e4144765107f44ad2912becfff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
+        <sys_update_name>sys_app_module_b0e356e4144765107f44ad2912becfff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-23 20:10:01</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</application>
+        <file_path/>
+        <instance_id>08a28e578776a5d037e243b4dabb359f</instance_id>
+        <instance_name>adf-may21-583-dev-012</instance_name>
+        <name>sys_app_module_b0e356e4144765107f44ad2912becfff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Bridge the GAP">f4e356e4144765107f44ad2912becff4</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_bridge_the_team_approvals</name><order>600</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-23 15:16:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b0e356e4144765107f44ad2912becfff</sys_id><sys_mod_count>1</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package><sys_policy/><sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope><sys_update_name>sys_app_module_b0e356e4144765107f44ad2912becfff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-23 20:10:01</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1246641626</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>9780de60144765107f44ad2912becfcb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-23 20:10:01</sys_created_on>
+        <sys_id>aff69368148b65107f44ad2912becfdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1884a3b9f9a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-23 20:10:01</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a7f69368fd8b6510ff803ed6ca6096db</update_guid>
+        <update_guid_history>a7f69368fd8b6510ff803ed6ca6096db:-1246641626,74e396e4c0476510bad942195f0e0f00:-437959863</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">467ef3b41443e5107f44ad2912becfb4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-24 17:40:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4a07e5bbb2dc45988bcb536583f2b544</sys_id>
+        <sys_metadata>b0e356e4144765107f44ad2912becfff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
+        <sys_scope_delete display_value="">0062f85ee85540aa8073e2e5d2ffef41</sys_scope_delete>
+        <sys_update_name>sys_app_module_b0e356e4144765107f44ad2912becfff</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b0e356e4144765107f44ad2912becfff">aff69368148b65107f44ad2912becfdb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-24 17:40:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
