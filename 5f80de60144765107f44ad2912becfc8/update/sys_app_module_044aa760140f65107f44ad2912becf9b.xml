@@ -8,12 +8,12 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
         <mobile_title>SKILLBRIDGE APPLICATION TRACKERs</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_cdltd_bridge_the_skillbridge_application_tracker</name>
-        <order/>
+        <order>100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,17 +24,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>044aa760140f65107f44ad2912becf9b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>SKILLBRIDGE APPLICATION TRACKERs</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Skillbridge Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
         <sys_update_name>sys_app_module_044aa760140f65107f44ad2912becf9b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-23 21:34:09</sys_updated_on>
+        <sys_updated_on>2023-05-24 14:25:58</sys_updated_on>
         <timeline_page/>
-        <title>SKILLBRIDGE APPLICATION TRACKERs</title>
+        <title>Skillbridge Request</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
