@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>My First Skillbridge Application Request AFT TEST</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-24 20:24:16</sys_created_on>
+        <sys_id>02b3acc91407e5107f44ad2912becf00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My First Skillbridge Application Request AFT TEST</sys_name>
+        <sys_package display_value="Bridge the GAP" source="x_cdltd_bridge_the">5f80de60144765107f44ad2912becfc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bridge the GAP">5f80de60144765107f44ad2912becfc8</sys_scope>
+        <sys_update_name>sys_atf_test_02b3acc91407e5107f44ad2912becf00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-24 20:24:16</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=02b3acc91407e5107f44ad2912becf00"/>
+</record_update>
